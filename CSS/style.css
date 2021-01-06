@@ -15,6 +15,9 @@ body {
     padding-top: 1vh;
     padding-bottom: 0vh;
     margin-bottom: 0rem;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
 }
 
 .topNavBar {
@@ -26,7 +29,7 @@ body {
     background-color: #005a87;
     color: #fff;
     width: 100vw;
-    height: 400px !important;
+    height: 405px !important;
     border-radius: 0 !important;
 }
 
