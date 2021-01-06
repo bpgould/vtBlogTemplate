@@ -10,12 +10,29 @@ body {
     overflow-x: hidden
 }
 
-#timeline {
-    
+p {
+    font-size: 18px;
+    text-indent: 40px;
 }
 
+figure {
+    display: inline-block;
+    margin: 20px;
+}
+
+figure img {
+    vertical-align: top;
+}
+
+/* figure figcaption {
+    text-align: center;
+    vertical-align: middle;
+    display: table-caption;
+    caption-side: bottom;
+} */
+
 .jumbotron {
-    height: 100vh;
+    height: 200vh;
     margin-bottom: 0rem;
     border: 2px;
     border-color: black;
