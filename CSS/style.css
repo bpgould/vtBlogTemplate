@@ -10,14 +10,20 @@ body {
     overflow-x: hidden
 }
 
+#timeline {
+    
+}
+
 .jumbotron {
     height: 100vh;
-    padding-top: 1vh;
-    padding-bottom: 0vh;
     margin-bottom: 0rem;
     border: 2px;
     border-color: black;
     border-style: solid;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 .topNavBar {
