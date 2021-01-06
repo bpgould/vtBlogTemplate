@@ -6,7 +6,7 @@
 }
 
 body {
-    padding-top: 60px;
+    padding-top: 67px;
     overflow-x: hidden
 }
 
@@ -26,6 +26,8 @@ body {
     background-color: #005a87;
     color: #fff;
     width: 100vw;
+    height: 400px !important;
+    border-radius: 0 !important;
 }
 
 a {
