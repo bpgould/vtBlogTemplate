@@ -53,7 +53,7 @@ figure img {
     background-color: #005a87;
     color: #fff;
     width: 100vw;
-    height: 405px !important;
+    /* height: 405px !important; */
     border-radius: 0 !important;
 }
 
