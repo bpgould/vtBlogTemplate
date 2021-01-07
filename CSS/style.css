@@ -24,13 +24,6 @@ figure img {
     vertical-align: top;
 }
 
-/* figure figcaption {
-    text-align: center;
-    vertical-align: middle;
-    display: table-caption;
-    caption-side: bottom;
-} */
-
 .jumbotron {
     height: 900vh;
     margin-bottom: 0rem;
